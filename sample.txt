@@ -1,0 +1,4 @@
+<filter log.**>
+ @type dht11
+ gpio_no 18
+</filter>
